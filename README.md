@@ -36,4 +36,3 @@ https://redmine-system-dev.k-idea.jp/redmine/issues/149481
 - `./html/about_me.html` .....今回利用するHTMLファイル
 - `./img/*` .....HTMLに利用する画像
 - `./doc/*` .....運営が確認するドキュメント
-- `./Gitハンズオン.pptx` .....講義資料
