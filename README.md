@@ -4,8 +4,7 @@
 疑似的に開発体験、問題解決を行えるようになっています
 
 # Requirements
-はじめる前に**Gitハンズオン運営準備資料.docx**を確認して準備をします
-ハンズオンにはVSCode, Gitの実行できる環境, GitLabのアカウントが必要です
+ハンズオンにはVSCode, Gitの実行できる環境, Githubのアカウントが必要です
 
 # Feature
 ハンズオンを通してGitコマンドが学習できます
@@ -15,21 +14,12 @@
 # How to Use
 
 ```
-$ git clone https://github.com/jinwatanabe/NLP-notebook-in-ja
+$ git clone {url}
 $ cd ./git_handson
 ```
 
 **Gitハンズオン！.pptx**を参考に進めます
 ハンズオンには3人1組のチームと進行役が必要になります
-
-- リポジトリ
-https://gitlab-system-dev.k-idea.jp/sys-dev/basic-dev/basic2/study/git_handson
-
-- Redmine
-https://redmine-system-dev.k-idea.jp/redmine/issues/149481
-
-- ドキュメント
-\\192.168.0.240\FileMaster\■システム・サポート部\エンジニア研修\Gitハンズオン！
 
 # Directories
 
