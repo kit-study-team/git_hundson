@@ -14,7 +14,7 @@
 # How to Use
 
 ```
-$ git clone {url}
+$ git clone https://github.com/kit-iniwa-takaya/git_handson.git
 $ cd ./git_handson
 ```
 
